@@ -1,6 +1,6 @@
 # Introduction to A-Body-Powered-Underactuated-Prosthetic-Finger-Driven-by-MCP-Joint-Motion
 
-<img src="hardware/coreXY_image_render.png"/>
+<img src="hardware/Fabricated finger.png"/>
 
 This study presents the design, fabrication, and clinical validation of a lightweight, body-powered prosthetic index finger actuated via metacarpophalangeal (MCP) joint motion. 
 The proposed system incorporates an underactuated, cable-driven mechanism combining rigid and compliant elements to achieve passive adaptability and embodied intelligence, 
