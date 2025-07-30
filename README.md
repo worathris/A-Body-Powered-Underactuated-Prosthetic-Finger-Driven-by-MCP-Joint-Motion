@@ -4,4 +4,4 @@
 
 
 ## 📸 Demonstration Media
-[![Watch the video](https://img.youtube.com/watch?v=6tovplAdyMk/hqdefault.jpg)](https://www.youtube.com/watch?v=6tovplAdyMk)
+[![Watch the video](https://img.youtube.com/vi/6tovplAdyMk/hqdefault.jpg)](https://www.youtube.com/watch?v=6tovplAdyMk)
