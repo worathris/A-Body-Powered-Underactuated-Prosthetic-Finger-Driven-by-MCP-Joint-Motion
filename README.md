@@ -43,6 +43,6 @@ This project was approved by the Institutional Review Board (IRB), Project No. 6
 ## 📬 Contact
 
 For questions or collaboration opportunities, please contact:  
-**[Worathris Chungsangsatiporn]**  
-[Department of Mechanical Engineering, Faculty of Engineering, Chulalongkorn University]  
-📧 [Ratchatin.c@chula.ac.th]  
+**Worathris Chungsangsatiporn** and **Ratchatin Chancharoen**
+Department of Mechanical Engineering, Faculty of Engineering, Chulalongkorn University  
+📧 Ratchatin.c@chula.ac.th  
