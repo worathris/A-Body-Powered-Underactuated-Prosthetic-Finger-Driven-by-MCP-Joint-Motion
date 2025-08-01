@@ -25,12 +25,10 @@ The full research article is available here:
 
 ---
 
-## 📁 Repository Contents
-
-- `/CAD`: 3D models of the prosthetic finger (Fusion 360 files and STL exports)  
-- `/Firmware`: Optional control references (if sensors or feedback modules are added)  
-- `/Docs`: Technical documentation, schematics, and user guidelines  
-- `/Media`: Photos, demo video links, and figures used in the paper  
+## 📁 Data Availability
+The datasets used in the paper can be found in the following directories:
+- `/Free motion`: Includes raw data and simulation files related to free motion.  
+- `/Touch`: Includes data and simulations corresponding to constrained configurations.  
 
 ---
 
